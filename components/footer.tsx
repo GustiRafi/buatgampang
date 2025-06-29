@@ -73,11 +73,11 @@ export function Footer() {
               </li>
               <li className="flex items-center space-x-3 text-gray-400">
                 <Phone className="h-4 w-4" />
-                <span>+62 812-3456-7890</span>
+                <span>+62 895-0475-3863</span>
               </li>
               <li className="flex items-start space-x-3 text-gray-400">
                 <MapPin className="h-4 w-4 mt-1" />
-                <span>Jakarta, Indonesia</span>
+                <span>Yogyakarta, Indonesia</span>
               </li>
             </ul>
           </div>
